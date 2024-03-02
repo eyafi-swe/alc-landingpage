@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Gamers Bank",
+    "gameImage": "../src/assets/home.jpg",
+    "details": "Gamers Bank is a Tournament App. User can easily register and participate to any tournament. Win atttractive prizes."
+  },
+  {
+    "id": 2,
+    "name": "Tournaments",
+    "gameImage": "../src/assets/matches.jpg",
+    "details": "Find different matches and participate by giving your game id code/name to win prizes."
+  },
+  {
+    "id": 3,
+    "name": "Deposit Cash",
+    "gameImage": "../src/assets/deposit.jpg",
+    "details": "Deposit cash to your wallet to buy diamonds and participate to any tournament."
+  },
+  {
+    "id": 4,
+    "name": "Withdraw Cash",
+    "gameImage": "../src/assets/withdraw.jpg",
+    "details": "Withdraw cash from your wallet whenever you want."
+  },
+  {
+    "id": 5,
+    "name": "Diamonds",
+    "gameImage": "../src/assets/diamond.jpg",
+    "details": "You can buy diamonds with lowest prizes."
+  },
+  {
+    "id": 6,
+    "name": "Profile",
+    "gameImage": "../src/assets/profile.jpg",
+    "details": "In Profile you can see your details and your wallet balance."
+  }
+]
